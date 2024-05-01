@@ -2,7 +2,6 @@ import React, { useEffect, useRef, useState } from "react";
 import { FFmpeg } from "@ffmpeg/ffmpeg";
 import { toBlobURL, fetchFile } from "@ffmpeg/util";
 import './style.css';
-import Play from './img/Play.png';
 
 function App() {
 
