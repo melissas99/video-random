@@ -105,7 +105,7 @@ function App() {
   return loaded ? (
     <>
       <h1>Video Shuffle</h1>
-      <img src={Play} alt="Play" id="play" />
+      {/* <img src={Play} alt="Play" id="play" /> */}
       <label for="selettore-file" class="custom-file-upload">
       Upload File
       </label>
