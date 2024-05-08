@@ -69,7 +69,7 @@ function App() {
 
     resultsVideoContainer.innerHTML = '';
 
-    const numIterations = 3;
+    const numIterations = 6;
 
     for (let i = 0; i < numIterations; i++) {
       const shuffledArray = shuffleArray(videoUrls);
